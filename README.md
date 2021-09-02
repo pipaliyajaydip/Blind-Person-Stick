@@ -1,2 +1,4 @@
 # Blind-Person-Stick
-Summer Internship at College - Mini Project
+Summer Internship at College - Mini Project 
+<image src="circuit diagram.png">
+
